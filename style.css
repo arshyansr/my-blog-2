@@ -1,0 +1,273 @@
+html, body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    }
+
+
+    .header{
+        background-color: #252220;
+        height: 176px;
+    }
+
+    .h1-header{
+        margin-right: 20px;
+    }
+
+    .info-box{
+        margin-left: 20px;
+    }
+
+    .img-header{
+        width: 50px;
+        height: 50px;
+    }
+
+    .info-box-cild2 p{
+        font-family: Kalameh;
+        font-weight:900;
+        margin-top: -5px;
+    }
+
+    .info-box-cild2-p{
+        margin-left: 170px;
+    }
+
+    .menu{
+        display: flex;
+        flex-direction: row-reverse;
+        width: 1725px;
+        height: 96px;
+        margin-top: -50px;
+        background-color: #f5f5f5;
+        border-radius: 10px;
+    }
+
+    .nav-link{
+        color: black;
+    }
+
+    .img-custom{
+        margin-right: 430px;
+        margin-top: 30px;
+    }
+
+    .bt-head{
+        margin-right: 580px;
+    }
+
+    .img-custom a{
+        margin: 0 10px;
+    }
+
+    .content-box{
+        margin-right: 300px;
+        direction: rtl;
+        box-sizing: border-box;
+    }
+
+    .circle {
+        width: 25px;
+        height: 25px;
+    }
+
+    .content-box-img{
+        margin-right: 800px;
+        margin-top: -220px;
+    }
+
+    .cont{
+        width: 800px;
+        height: 250px;
+        background-color: white;
+        margin-right: 150px;
+        margin-top: -300px;
+        padding: 10px 10px;
+        border-radius: 10px;
+    }
+
+    .p-class{
+        padding-top: 15px;
+    }
+
+    .para-content{
+        background-color: white;
+        height: 300px;
+    }
+
+    .para-content-p{
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .para-content-p-border{
+        width: 150px;
+        border-bottom: 5px solid green;
+        border-radius: 20px;
+        margin-left: 140px;
+    }
+
+    .img-content{
+        width: 1440px;
+        height:700px ;
+        margin-left: 250px;
+    }
+
+    .img-content-cnt{
+        width: 900px;
+        height: 500px;
+        background-color: rgba(000, 000, 000, 0.7);
+        margin-top: -700px;
+        border-radius: 10px;
+    }
+
+
+    .img-second{
+        width: 1440px;
+        height: 160px;
+        margin-top:-100px ;
+        margin-left: 250px;
+    }
+
+    .img-content-cnt-circle{
+        width: 100px;
+        height: 100px;
+        background-color:rgba(999, 999, 999, 0.2);
+        border-radius: 50%;
+        margin-right: 800px;
+    }
+
+    .img-content-cnt-paras{
+        margin-right: -120px;
+        margin-top: -50px;
+    }
+
+    .img-content-cnt-paras ul{
+        direction: rtl;
+        margin-right: 20px;
+    }
+
+
+    .box-custom{
+        width: 1160px;
+        height: 500px;
+        background-color: white;
+    }
+
+    .box-custom-rt{
+        width: 300px;
+        height: 340px;
+        border: 5px solid rgb(2, 100, 2);
+        margin-bottom: -80px;
+        margin-right: 50px;
+        text-align: center;
+    }
+
+    .box-custom-rt-p{
+        margin-top: 50px;
+        font-size: 90px;
+        color: rgb(2, 100, 2);;
+    }
+
+    .box-custom-rt-p2{
+        font-size: 40px;
+    }
+
+    .box-custom-p{
+        margin-right: -550px;
+        color: rgb(119, 119, 119);
+        margin-bottom: 20px;
+    }
+
+
+    .box-custom-p-2{
+        margin-right: -320px;
+        font-size: 1.5rem;
+    }
+
+    .box-custom-p-3{
+        color: rgb(119, 119, 119);
+    }
+
+    .box-custom-bx{
+        padding-right: 100px;
+        margin-top: 50px;
+    }
+
+    .box-custom-bx-p{
+        font-size: 20px;
+    }
+
+    .footer{
+        height: 280px;
+        background-color: #252220;
+    }
+
+    .footer-content-1{
+        width: 400px;
+    }
+
+
+    .footer-content-2 h5{
+        width: 120px;
+    }
+
+    .footer-content-2-ul{
+        list-style-type: none;
+    }
+
+    .footer-content-2{
+        width: 200px;
+    }
+
+    .ul-custom{
+        list-style-type: none;
+    }
+
+    .h3-custom{
+        padding-top: 20px;
+        padding-right: 80px;
+
+    }
+
+    .p-custom{
+        font-size: 12px;
+        margin-top: 20px;
+        margin-right: 80px;
+    }
+
+    .border-bottom{
+        width: 200px;
+    }
+
+    .h5-custom{
+        padding-left: 30px;
+    }
+
+   .ul-custom a{
+    text-decoration: none;
+   }
+
+   .input-info{
+    width: 300px;
+    background-color:#252220 ;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 3px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 120px;
+   }
+
+   .butn-info{
+    width: 100px;
+    background-color: rgb(1, 105, 1);
+    color: white;
+   }
+
+   .h5-footer{
+    margin-left: 140px;
+    margin-bottom: 20px;
+   }
